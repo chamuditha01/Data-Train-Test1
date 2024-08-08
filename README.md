@@ -1,4 +1,4 @@
-Leaf Disease Detection using Machine Learning
+<h1>Leaf Disease Detection using Machine Learning</h1>
 This project focuses on developing a machine learning model that can accurately detect and classify diseases in plant leaves based on image data. The aim is to provide an automated solution for farmers and agricultural professionals to quickly identify plant diseases, which can lead to timely intervention and improved crop yields.
 
 Features
